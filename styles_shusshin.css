@@ -63,6 +63,11 @@ fieldset {
   border: 1px solid gray;
 }
 
+#slider1 {
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
 #legendTitle, #legendTitleOther {
   cursor: pointer;
   margin-top: 5px;
